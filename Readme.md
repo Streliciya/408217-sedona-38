@@ -1,7 +1,6 @@
 # Личный проект «Седона»
 
-* Студент: [Марина Моторина](https://up.htmlacademy.ru/htmlcss/38/user/408217).
-* Наставник: [Екатерина Комнатная](https://htmlacademy.ru/profile/id215761).
+
 
 ---
 
